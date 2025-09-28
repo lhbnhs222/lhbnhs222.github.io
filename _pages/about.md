@@ -35,8 +35,8 @@ Currently, I am a visiting PhD student at the KTH Royal Institute of Technology 
 
 ## Publications
 
-### Enhancing resource sharing in urban rail transit: a rolling stock sharing strategy for multi-line timetable optimization in cross-line operations (https://www.sciencedirect.com/science/article/pii/S036083522500289X)
-H Lu, Y Xu, L Sun, Y Liu, X Ma, J Liu. (2025), *Computers & Industrial Engineering*  
+### Enhancing resource sharing in urban rail transit: a rolling stock sharing strategy for multi-line timetable optimization in cross-line operations
+H Lu, Y Xu, L Sun, Y Liu, X Ma, J Liu. (2025), *Computers & Industrial Engineering*  [📄 Paper](https://www.sciencedirect.com/science/article/pii/S036083522500289X) 
 
  
 

@@ -19,17 +19,23 @@ This is the front page of a website that is powered by the [Academic Pages templ
 Education
 ======
 - **KTH Royal Institute of Technology**
+  
   Visiting PhD Student (2025-2026)
 
 - **Beihang University**
+  
   PhD in Data Transportation (2023–2027)
+  
   Research areas: Autonomous and Electric Truck Scheduling in Open Pit Mines
   
 - **Beijing University of Technology**
+  
   Master’s degree in Transportation (2020–2023)
+  
   Research areas: Cross-Line Operation Optimization for Urban Rail Transit
 
 - **Kunming University of Science and Technology**
+  
   Bachelor’s degree in Transportation Engineering (2016–2020)
     
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.

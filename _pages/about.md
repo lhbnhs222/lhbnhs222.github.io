@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+About Me
+======
 I am a PhD candidate in Transportation at Beihang University, with a research focus on autonomous electric truck scheduling optimization, transportation energy infrastructure planning, and intelligent transportation systems. My work lies at the intersection of operations research, sustainable energy, and transportation in open-pit mining scenarios, aiming to improve the efficiency and sustainability of large-scale electrified autonomous transport systems.
 
 Currently, I am a visiting PhD student at the KTH Royal Institute of Technology (2025–2026).

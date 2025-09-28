@@ -54,6 +54,9 @@ L Sun, H Lu, Y Xu*, D Kong, J Shao. (2022), *Physica A: Statistical Mechanics an
 ### Equity-oriented integrated optimization of train timetable and stop plans for suburban railways system
 J Shao, Y Xu, L Sun*, D Kong, H Lu. (2022), *Computers & Industrial Engineering*  [📄 Paper](https://www.sciencedirect.com/science/article/pii/S0360835222007094)  
 
+### For a full and up-to-date list of my publications: [Google Scholar profile](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=BHuk1WgAAAAJ).
+---
+
 
 Getting started
 ======

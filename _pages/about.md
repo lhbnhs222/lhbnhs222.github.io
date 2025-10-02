@@ -21,7 +21,7 @@ Currently, I am a visiting PhD student at the KTH Royal Institute of Technology 
   Visiting PhD Student (2025-2026)
 
 - **Beihang University**  
-  PhD in Data Transportation (2023–2027)  
+  PhD in Transportation (2023–2027)  
   *Research areas: Autonomous and Electric Truck Scheduling in Open Pit Mines*
   
 - **Beijing University of Technology**  

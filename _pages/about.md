@@ -34,6 +34,8 @@ Currently, I am a visiting PhD student at the KTH Royal Institute of Technology 
 ---
 
 ## Publications
+### A dynamic truck scheduling framework for open-pit mine production under equipment fault uncertainty
+Y Shi, X Ma, P Zhang, H Lu\*. (2025), *Expert Systems with Applications*  [📄 Paper](https://www.sciencedirect.com/science/article/pii/S0957417425038692) 
 
 ### Enhancing resource sharing in urban rail transit: a rolling stock sharing strategy for multi-line timetable optimization in cross-line operations
 H Lu, Y Xu, L Sun\*, Y Liu, X Ma, J Liu. (2025), *Computers & Industrial Engineering*  [📄 Paper](https://www.sciencedirect.com/science/article/pii/S036083522500289X) 

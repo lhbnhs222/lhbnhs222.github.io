@@ -34,8 +34,11 @@ Currently, I am a visiting PhD student at the KTH Royal Institute of Technology 
 ---
 
 ## Publications
+### An integrated optimization framework for low-carbon truck dispatching in open-pit mining
+H Lu, X Ma\*, Z Liu, J Bian, Y Shi. (2026), *Computers & Industrial Engineering*  [📄 Paper](https://www.sciencedirect.com/science/article/pii/S0360835226002238) 
+
 ### A dynamic truck scheduling framework for open-pit mine production under equipment fault uncertainty
-Y Shi, X Ma, P Zhang, H Lu\*. (2025), *Expert Systems with Applications*  [📄 Paper](https://www.sciencedirect.com/science/article/pii/S0957417425038692) 
+Y Shi, X Ma, P Zhang, H Lu\*. (2026), *Expert Systems with Applications*  [📄 Paper](https://www.sciencedirect.com/science/article/pii/S0957417425038692) 
 
 ### Enhancing resource sharing in urban rail transit: a rolling stock sharing strategy for multi-line timetable optimization in cross-line operations
 H Lu, Y Xu, L Sun\*, Y Liu, X Ma, J Liu. (2025), *Computers & Industrial Engineering*  [📄 Paper](https://www.sciencedirect.com/science/article/pii/S036083522500289X) 
@@ -43,12 +46,11 @@ H Lu, Y Xu, L Sun\*, Y Liu, X Ma, J Liu. (2025), *Computers & Industrial Enginee
 ### Hierarchical multiagent reinforcement learning for sustainable truck dispatching in open-pit mining
 K Zhao, Z Liu, W Du, H Lu, B Zhou, G Yu, X Ma\*. (2025), *Transportmetrica A: Transport Science*  [📄 Paper](https://www.tandfonline.com/doi/full/10.1080/23249935.2025.2522360)  
 
-### Train Service Design for Rail Transit Cross-Line Operation Applying Virtual Coupling
-L Sun, Y Liu, Y Xu\*, D Kong, H Lu, H Lu. (2024), *Applied Sciences*  [📄 Paper](https://www.mdpi.com/2076-3417/14/15/6787)  
-
 ### Integrated optimization of production scheduling and haulage route planning in open-pit mines
 C Xu, G Chen, H Lu\*, Q Zhang, Z Liu, J Bian. (2024), *Mathematics*  [📄 Paper](https://www.mdpi.com/2227-7390/12/13/2070)  
 
+### Train Service Design for Rail Transit Cross-Line Operation Applying Virtual Coupling
+L Sun, Y Liu, Y Xu\*, D Kong, H Lu, H Lu. (2024), *Applied Sciences*  [📄 Paper](https://www.mdpi.com/2076-3417/14/15/6787)  
 
 ### Fairness-oriented train service design for urban rail transit cross-line operation
 L Sun, H Lu, Y Xu\*, D Kong, J Shao. (2022), *Physica A: Statistical Mechanics and its Applications*  [📄 Paper](https://www.sciencedirect.com/science/article/pii/S0378437122006963)  
